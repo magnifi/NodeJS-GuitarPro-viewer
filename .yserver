@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+YEOMAN=`which yeoman`
+NODEMON=`which nodemon`
+
+if [[ $YEOMAN && $NODEMON ]]; then
+  $NODEMON $YEOMAN server
+else
+  echo "yeoman and/or nodemon is not installed!"
+fi

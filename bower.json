@@ -1,0 +1,22 @@
+{
+  "name": "myMusic",
+  "version": "0.0.0",
+  "dependencies": {
+    "alphatab": "git://github.com/CoderLine/alphaTab",
+    "angular": "1.2.0-rc.3",
+    "json3": "~3.2.4",
+    "jquery": "~2.0.*",
+    "bootstrap-sass": "3.*",
+    "es5-shim": "~2.0.8",
+    "angular-resource": "1.2.0-rc.3",
+    "angular-animate": "1.2.0-rc.3",
+    "angular-route": "1.2.0-rc.3",
+    "angular-cookies": "1.2.0-rc.3",
+    "underscore": "*",
+    "angular-sanitize": "1.2.0-rc.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.0-rc.3",
+    "angular-scenario": "1.2.0-rc.3"
+  }
+}

@@ -1,0 +1,8 @@
+/app/
+/test/
+/dist/
+/temp/
+temp   # for ignoring the dynamic removal and recreation of temp/
+.sass-cache/
+db.sqlite*
+*.txt
