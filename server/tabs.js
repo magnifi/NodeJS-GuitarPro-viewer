@@ -1,6 +1,6 @@
 'use strict';
 var fs = require('fs');
-var tabsRoot = "/Volumes/60000Tabs.to.GuitarPro_www.fullzone.com_upload.by.Auron"
+var tabsRoot = "/path/to/tabs_directory"
 
 module.exports = {
   run: function (req, res) {
